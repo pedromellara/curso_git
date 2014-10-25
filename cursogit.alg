@@ -8,7 +8,7 @@ algoritmo "Curso git"
 //b)Efetuar o cálculo da área, elevando o valor de R ao quadrado e multiplicado por PI.
 //c)Apresentar o valor da variavel A
 var
-r,p,a: real
+r,p,a, c, d: real
 inicio
 escreva ("Escreva o raio da circunfêrencia.:")
 leia(r)
