@@ -17,5 +17,4 @@ leia(p)
 a <- (r*r)*p
 escreva ("A área da circunferência é.:",a)
 fimalgoritmo
-PP
-Puto
+tio dele cuzao
